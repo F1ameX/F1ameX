@@ -22,6 +22,9 @@ I`m a second-year student at **Novosibirsk State University (NSU)**, studying at
 </div>
 
 ## Still want to contact me?
-You can DM me on telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/F1ameX)
+<div align="center">
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/F1ameX)
+[![VK](https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/andreyebanutuy)
+</div>
 
 # Have a good day!
