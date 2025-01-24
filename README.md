@@ -5,11 +5,12 @@
 I`m a second-year student at **Novosibirsk State University (NSU)**, studying at the Faculty of Information Technology. Currently developing at data science, machine learning and deep learning.
 
 ##
+<p align="center">
 ![](https://github.com/F1ameX/F1ameX/blob/main/secret_file.gif)
+</p>
 ##
 
 ## Stack of technologies that I using
-
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
@@ -19,3 +20,8 @@ I`m a second-year student at **Novosibirsk State University (NSU)**, studying at
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </div>
+
+## Still want to contact me?
+You can DM me on telegram: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/F1ameX)
+
+# Have a good day!
