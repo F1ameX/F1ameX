@@ -25,7 +25,7 @@ I`m a second-year student at **Novosibirsk State University (NSU)**, studying at
 ---
 
 ## Still want to contact me?
-<div align="center">
+<div align="left">
   <a href="https://t.me/F1ameX" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
