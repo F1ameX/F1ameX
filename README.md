@@ -3,13 +3,9 @@
 ## A bit about me:
 I`m a second-year student at **Novosibirsk State University (NSU)**, studying at the Faculty of Information Technology. Currently developing at data science, machine learning, and deep learning.
 
----
-
 <p align="center">
   <img src="https://github.com/F1ameX/F1ameX/blob/main/secret_file.gif" alt="secret animation" />
 </p>
-
----
 
 ## Stack of technologies that I use:
 <div align="center">
