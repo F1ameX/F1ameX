@@ -1,5 +1,5 @@
 # Hi there, I'm Andrew! 👋
-![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/F1ameX&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=views&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=F1ameX&color=red)
 ## A bit about me:
 I`m a second-year student at **Novosibirsk State University (NSU)**, studying at the Faculty of Information Technology. Currently developing at data science, machine learning, and deep learning.
 
