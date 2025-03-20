@@ -1,35 +1,23 @@
-# Hi there, I'm Andrew! 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=F1ameX&color=red)
-## A bit about me:
-I`m a second-year student at **Novosibirsk State University (NSU)**, studying at the Faculty of Information Technology. Currently developing at data science, machine learning, and deep learning.
+##  Hi there, I'm Andrew! 👋
 
-<p align="center">
-  <img src="https://github.com/F1ameX/F1ameX/blob/main/secret_file.gif" alt="secret animation" />
-</p>
+Welcome to my GitHub profile. Here I share my own projects, usually in the fields of Data Science, Machine Learning and Deep Learning.
 
-## Stack of technologies that I use:
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
+	<img src="secret_file.gif" width="500", height="500"/>
 </div>
 
----
+## 😃🍵 A bit about me:
+- **Location**: Novosibirsk, Russia
+- **Education**: Second grade student of NSU 
+- **Field of study**:  Computer Science and Engineering
+- **Fully immersed in deep learning**
+- **Tea Ceremony drinker/lover**
 
-## Still want to contact me?
-<div align="left">
-  <a href="https://t.me/F1ameX" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://vk.com/andreyebanutuy" target="_blank">
-    <img src="https://img.shields.io/badge/VK-4C75A3?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
-  </a>
-</div>
+## 💻 Stack of technologies that I use:
+[![Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,apple,linux)](https://skillicons.dev)
 
----
-
-# Have a good day!
+## 👀 Wanna contact me?
+- **VK** [Send DM](https://vk.me/andreyebanutuy)
+- **Telegram** [Send DM](https://telegram.me/F1ameX)
+- **Email** [Send DM](mailto:flamexnivelson@gmail.com)
