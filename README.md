@@ -4,7 +4,7 @@
 Welcome to my GitHub profile. Here I share my own projects, usually in the fields of Data Science, Machine Learning and Deep Learning.
 
 <div align="center">
-	<img src="secret_file.gif" width="400", height="300"/>
+	<img src="[secret_file.gif](https://github.com/F1ameX/F1ameX/blob/main/secret_file.gif)" width="400", height="300"/>
 </div>
 
 ## 😃🍵 A bit about me:
