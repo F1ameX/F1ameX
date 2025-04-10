@@ -17,6 +17,8 @@ Welcome to my GitHub profile. Here I share my own projects, usually in the field
 ## 💻 Stack of technologies that I use:
 [![Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,git,github,apple,linux)](https://skillicons.dev)
 
+## 🧠 Leetcode Stats
+![Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/F1ameX?theme=neutral)
 ## 👀 Wanna contact me?
 - **VK** [Send DM](https://vk.me/andreyebanutuy)
 - **Telegram** [Send DM](https://telegram.me/F1ameX)
