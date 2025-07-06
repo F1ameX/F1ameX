@@ -9,7 +9,7 @@ Welcome to my GitHub profile. Here I share my own projects, usually in the field
 
 ## 😃🍵 A bit about me:
 - **Location**: Novosibirsk, Russia
-- **Education**: Second grade student of NSU 
+- **Education**: Third grade student of NSU 
 - **Field of study**:  Computer Science and Engineering
 - **Fully immersed in deep learning**
 - **Tea Ceremony drinker/lover**
